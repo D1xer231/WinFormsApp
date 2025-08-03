@@ -16,7 +16,7 @@ namespace App
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new AuthForm()); //AuthorizationForm()); //AuthForm();
+            Application.Run(new EditUser()); //AuthorizationForm()); //AuthForm();
         }
     }
 }

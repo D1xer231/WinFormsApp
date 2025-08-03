@@ -44,3 +44,4 @@ D:\c# projects\new generation\v.3\winforms .net app\App\App\obj\Debug\App.Regist
 D:\c# projects\new generation\v.3\winforms .net app\App\App\obj\Debug\App.csproj.Up2Date
 D:\c# projects\new generation\v.3\winforms .net app\App\App\obj\Debug\App.AuthForm.resources
 D:\c# projects\new generation\v.3\winforms .net app\App\App\obj\Debug\App.PingPong.resources
+D:\c# projects\new generation\v.3\winforms .net app\App\App\obj\Debug\App.EditUser.resources

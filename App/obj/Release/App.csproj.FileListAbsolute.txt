@@ -43,3 +43,5 @@ D:\c# projects\new generation\v.3\winforms .net app\App\App\obj\Release\App.cspr
 D:\c# projects\new generation\v.3\winforms .net app\App\App\obj\Release\App.csproj.Up2Date
 D:\c# projects\new generation\v.3\winforms .net app\App\App\obj\Release\App.exe
 D:\c# projects\new generation\v.3\winforms .net app\App\App\obj\Release\App.pdb
+D:\c# projects\new generation\v.3\winforms .net app\App\App\obj\Release\App.exe.config
+D:\c# projects\new generation\v.3\winforms .net app\App\App\obj\Release\App.EditUser.resources
